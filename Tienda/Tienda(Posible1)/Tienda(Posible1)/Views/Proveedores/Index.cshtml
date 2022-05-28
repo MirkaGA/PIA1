@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Tienda_Posible1_.Models.dbModels.Proveedore>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Proveedores</h1>
+
+<p>
+    <a asp-action="Create"><input type="submit" value="Agregar" class="btn btn-success" /></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Horario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoriasNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Horario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoriasNavigation.IdCategorias)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProveId"><input type="submit" value="Editar" class="btn btn-primary" /></a> 
+                <a asp-action="Delete" asp-route-id="@item.ProveId"><input type="submit" value="Borrar" class="btn btn-danger" /></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
