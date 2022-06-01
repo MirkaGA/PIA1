@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nbyUpE+WGH6CAIm+S2AGNNEVfga2iO6c4WGtnOSfPKFJe97SXRboiPO0XY8swZ/OIkjo9pMZCyVIGfgfCbY4g==",
+  "dgSpecHash": "T0Lkk5Q+oJGTr3eWWWJrmyIE8c1oJ1byR1gJH5rt8EzAc2pqoZs5n5JxjrsQWmx5leKZPT9kxncR6BNwUaOshg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lilia\\Desktop\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj",
+  "projectFilePath": "C:\\Users\\lilia\\source\\repos\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lilia\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\lilia\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.17\\microsoft.aspnetcore.cryptography.internal.5.0.17.nupkg.sha512",

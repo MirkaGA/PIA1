@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lilia\\Desktop\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj": {}
+    "C:\\Users\\lilia\\source\\repos\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj": {}
   },
   "projects": {
-    "C:\\Users\\lilia\\Desktop\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj": {
+    "C:\\Users\\lilia\\source\\repos\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lilia\\Desktop\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj",
+        "projectUniqueName": "C:\\Users\\lilia\\source\\repos\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj",
         "projectName": "Tienda(Posible1)",
-        "projectPath": "C:\\Users\\lilia\\Desktop\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj",
+        "projectPath": "C:\\Users\\lilia\\source\\repos\\Tienda\\Tienda(Posible1)\\Tienda(Posible1).csproj",
         "packagesPath": "C:\\Users\\lilia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lilia\\Desktop\\Tienda\\Tienda(Posible1)\\obj\\",
+        "outputPath": "C:\\Users\\lilia\\source\\repos\\Tienda\\Tienda(Posible1)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lilia\\AppData\\Roaming\\NuGet\\NuGet.Config",
