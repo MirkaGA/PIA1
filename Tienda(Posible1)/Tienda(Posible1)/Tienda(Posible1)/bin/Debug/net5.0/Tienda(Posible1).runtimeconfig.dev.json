@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\mirka\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\mirka\\.nuget\\packages"
-    ]
-  }
-}
